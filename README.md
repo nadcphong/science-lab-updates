@@ -131,7 +131,7 @@ Hệ Mặt Trời 3D, chu kỳ ngày & đêm, các pha của Mặt Trăng và ch
 
 <div align="center">
 
-Made with ❤️ for Vietnamese students
+Made with ❤️ for the education community
 
 **© Nguyễn Âu Dương Chấn Phong · Science Lab**
 
