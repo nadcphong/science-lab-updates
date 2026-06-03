@@ -31,7 +31,7 @@ Vật lí · Hóa học · Sinh học · Thiên văn — hơn **50 thí nghiệm
 
 ## ✨ Giới thiệu
 
-**Virtual Science Lab** giúp học sinh THCS được "tự tay" làm thí nghiệm Khoa học Tự nhiên ngay trên máy tính — an toàn, trực quan và không tốn dụng cụ. Mỗi thí nghiệm được mô phỏng sinh động với hiệu ứng vật lí, hóa học và đồ thị thời gian thực, bám sát chương trình **KHTN 6–9**.
+**Science Lab** giúp học sinh THCS được "tự tay" làm thí nghiệm Khoa học Tự nhiên ngay trên máy tính — an toàn, trực quan và không tốn dụng cụ. Mỗi thí nghiệm được mô phỏng sinh động với hiệu ứng vật lí, hóa học và đồ thị thời gian thực, bám sát chương trình **Khoa học Tự nhiên 6–9**.
 
 > 🎯 Học mà chơi — chơi mà hiểu bản chất khoa học.
 
