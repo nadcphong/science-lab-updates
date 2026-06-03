@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="Virtual Science Lab" width="240" />
+<img src="logo.png" alt="Science Lab" width="240" />
 
 # 🧪 Phòng Thí Nghiệm Khoa Học Tự Nhiên Ảo
 
