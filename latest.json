@@ -1,0 +1,19 @@
+{
+  "version": "1.1.2",
+  "notes": "Phiên bản 1.1.2 của Virtual Science Lab.",
+  "pub_date": "2026-06-03T01:47:33Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcWdKQmRKNjJ5K3RhcHJTMDBPYzZTdXFxNEsrQlB1ZXdURjc2ZWt6MHV5VE9Dd2xidnloV25INFBlM29HeVVZdkRjTFNLUENXN2R4bDBDYWZCbllzMW1PRXdHUVFRWVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDUxMTU5CWZpbGU6VmlydHVhbCBTY2llbmNlIExhYl8xLjEuMl94NjQtc2V0dXAuZXhlCkErSlIvby9zSlo3UEhTWnhqN05rMlMwdEhBREt0TlJXMTBRTXJUNFp6N09QVHpVcVZUVE1sSnNjSWFRRkxJb09qYVJjemVWZkhMZ25KMGFxUm8wTUN3PT0K",
+      "url": "https://github.com/nadcphong/science-lab-updates/releases/download/v1.1.2/VirtualScienceLab_1.1.2_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcWdKQmRKNjJ5K2tnS2cyTFpyTUR0TGxwbTJLdTNxYU5XZzk2Q2daNkZ6WjRyNW9JRUdRaWZOM1E2emxqaGljQm16a1p6MjZMbnVwdVRhR3phNXkwV3AxSlFKZjMrNGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDUwODMyCWZpbGU6VmlydHVhbCBTY2llbmNlIExhYi5hcHAudGFyLmd6CmVBbGNhRjZmY1B0bmdsVjcrTHAyU1NNQXFUdkwzM0NlT1NZME1MMzlmaWRVMGFMT1ZsNkpGVWJrMUI0SjJBaHd2UllUMkdpSWtLWGRBK2cvR1NjaURnPT0K",
+      "url": "https://github.com/nadcphong/science-lab-updates/releases/download/v1.1.2/VirtualScienceLab_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcWdKQmRKNjJ5K2tnS2cyTFpyTUR0TGxwbTJLdTNxYU5XZzk2Q2daNkZ6WjRyNW9JRUdRaWZOM1E2emxqaGljQm16a1p6MjZMbnVwdVRhR3phNXkwV3AxSlFKZjMrNGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDUwODMyCWZpbGU6VmlydHVhbCBTY2llbmNlIExhYi5hcHAudGFyLmd6CmVBbGNhRjZmY1B0bmdsVjcrTHAyU1NNQXFUdkwzM0NlT1NZME1MMzlmaWRVMGFMT1ZsNkpGVWJrMUI0SjJBaHd2UllUMkdpSWtLWGRBK2cvR1NjaURnPT0K",
+      "url": "https://github.com/nadcphong/science-lab-updates/releases/download/v1.1.2/VirtualScienceLab_universal.app.tar.gz"
+    }
+  }
+}
