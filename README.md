@@ -37,6 +37,31 @@ Vật lí · Hóa học · Sinh học · Thiên văn — hơn **50 thí nghiệm
 
 ---
 
+## 🖼️ Giao diện
+
+<div align="center">
+
+<img src="screenshots/home.png" alt="Màn hình chính" width="85%" />
+
+<sub>🏠 Màn hình chính — chọn chủ đề thí nghiệm theo môn</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="screenshots/microscope.png" alt="Kính hiển vi ảo" /><br/>
+<sub><b>🔬 Kính hiển vi ảo</b><br/>Quan sát tế bào & vi sinh vật, chỉnh độ phóng đại và lấy nét</sub>
+</td>
+<td width="50%" align="center">
+<img src="screenshots/optics.png" alt="Bàn quang học" /><br/>
+<sub><b>🔦 Bàn quang học</b><br/>Chiếu laser, đo góc tới & góc phản xạ theo thời gian thực</sub>
+</td>
+</tr>
+</table>
+
+---
+
 ## 🔬 Nội dung thí nghiệm
 
 <table>
