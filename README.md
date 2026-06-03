@@ -82,7 +82,7 @@ Lực & ma sát, cân lò xo, vector lực, động học, âm thanh, quang họ
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 Vật Sống (Sinh học)
+### 🌱 Vật Sống
 Kính hiển vi, quang hợp, hô hấp ở hạt, thoát hơi nước, tính hướng, nảy mầm, enzyme, lưới thức ăn, di truyền Mendel, đột biến DNA, sơ cứu…
 
 </td>
@@ -133,6 +133,6 @@ Hệ Mặt Trời 3D, chu kỳ ngày & đêm, các pha của Mặt Trăng và ch
 
 Made with ❤️ for Vietnamese students
 
-**© Antigravity · Virtual Science Lab**
+**© Nguyễn Âu Dương Chấn Phong · Science Lab**
 
 </div>
