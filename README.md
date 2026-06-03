@@ -4,7 +4,7 @@
 
 # 🧪 Phòng Thí Nghiệm Khoa Học Tự Nhiên Ảo
 
-### *Science Lab*
+### *SCIENCE LAB*
 
 **Mô phỏng thí nghiệm Khoa học Tự nhiên tương tác dành cho giáo viên và học sinh cấp THCS**
 
