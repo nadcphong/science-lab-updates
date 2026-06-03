@@ -6,7 +6,7 @@
 
 ### *Virtual Science Lab*
 
-**Mô phỏng thí nghiệm Khoa học Tự nhiên tương tác dành cho học sinh THCS**
+**Mô phỏng thí nghiệm Khoa học Tự nhiên tương tác dành cho giáo viên và học sinh cấp THCS**
 
 Vật lí · Hóa học · Sinh học · Thiên văn — hơn **50 thí nghiệm 3D** sinh động
 
